@@ -1,0 +1,71 @@
+
+/*
+.Design{
+    padding: 10px;
+    background-color:blue;
+    color: yellow;
+    border: 10mm;
+
+}
+*/
+
+
+/*                      new project 
+
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #6b87ce;
+    color: black;
+
+}
+
+.BookList{
+    width: 90vw;
+    max-width: 1170px;
+    margin: 4rem auto;
+    display: grid;
+    gap: 2rem;
+}
+
+@media screen and(min-width:768px)
+{
+    .bookList
+    {
+        grid-template-columns: repeat(2,1fr);
+    }    
+}
+
+.Book{
+    background-color: #fff;
+    padding: 1rem;
+}
+*/
+
+
+/* Project Hooks  */
+
+
+p{
+    text-align: center;
+    color: brown;
+    background: blue;
+    border-radius: 10cm;
+    min-height: 15px;
+    max-height: 100px;
+    width: 300px;
+    
+}
+
+btn{
+    color: pink;
+    border-radius: 10cm;
+    max-height: 50px;
+    width: 150px;
+
+}
